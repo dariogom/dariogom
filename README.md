@@ -11,7 +11,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-6B7280?style=for-the-badge&logoColor=white)
@@ -21,10 +20,18 @@
 
 ## 🚀 Sobre mim
 
-- 🖥️ Back-end developer focado em Python, automação e APIs limpas
-- 📚 Estudando: **FastAPI · PostgreSQL · Docker**
-- 🎯 Buscando: primeira oportunidade como desenvolvedor back-end
-- ❤️ Movido por código limpo, aprendizado contínuo e automação
+## 🧠 Sobre mim
+
+- 🐍 Desenvolvedor back-end com foco em **Python** — scripts de automação,
+  consumo de **REST APIs** e manipulação de dados com **Pandas**
+- 🤖 Experiência prática com **Selenium WebDriver** para automação de
+  fluxos web e testes end-to-end
+- 🗄️ Modelagem e consultas em **SQL** (MySQL/SQLite) — joins, subqueries
+  e otimização básica de queries
+- 🔧 Atualmente aprofundando: **FastAPI** (rotas, schemas Pydantic,
+  async) · **PostgreSQL** · **Docker** (containers e volumes)
+- 📐 Boas práticas: versionamento com **Git/GitHub**, código limpo,
+  separação de responsabilidades e documentação
 
 ---
 
