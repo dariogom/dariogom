@@ -18,7 +18,6 @@
 
 ---
 
-## 🚀 Sobre mim
 
 ## 🧠 Sobre mim
 
@@ -30,8 +29,6 @@
   e otimização básica de queries
 - 🔧 Atualmente aprofundando: **FastAPI** (rotas, schemas Pydantic,
   async) · **PostgreSQL** · **Docker** (containers e volumes)
-- 📐 Boas práticas: versionamento com **Git/GitHub**, código limpo,
-  separação de responsabilidades e documentação
 
 ---
 
