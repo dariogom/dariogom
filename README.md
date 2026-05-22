@@ -1,213 +1,162 @@
 <div align="center">
 
-<!-- STARFIELD ASCII -->
+<!-- NEURAL NETWORK HEADER ANIMATION -->
 ```
-         .        *        .    ✦      .        *
-    .    ✧    *    .    *        .       *    .
-         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-   ░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░
-  ░░░░░░░░░▓▓▓░░░░░░░░░░░░░▓▓▓░░░░░░░░░░
-  ░░░░░░░▓▓░░░░░░░░░░░░░░░░░░░▓▓░░░░░░░░
-  ░░░░░▓▓░░░░░░░░░░░░░░░░░░░░░░░▓▓░░░░░░
-  ░░░░▓▓░░░░░░░░░         ░░░░░░░▓▓░░░░░
-  ░░░░░▓▓░░░░░░░░░░░░░░░░░░░░░░▓▓░░░░░░░
-  ░░░░░░░▓▓░░░░░░░░░░░░░░░░░░▓▓░░░░░░░░░
-  ░░░░░░░░░▓▓▓░░░░░░░░░░░▓▓▓░░░░░░░░░░░░
-   ░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-         ░░░░░░░░░░░░░░░░░░░░░░░░░
-    .  ✦     *   .    ✧   .   *      .  ✦
+╔══════════════════════════════════════════════════════════════════╗
+║  ██████╗  █████╗ ██████╗ ██╗ ██████╗      ██████╗  ██████╗ ███╗   ███╗███████╗███████╗  ║
+║  ██╔══██╗██╔══██╗██╔══██╗██║██╔═══██╗    ██╔════╝ ██╔═══██╗████╗ ████║██╔════╝██╔════╝  ║
+║  ██║  ██║███████║██████╔╝██║██║   ██║    ██║  ███╗██║   ██║██╔████╔██║█████╗  ███████╗  ║
+║  ██║  ██║██╔══██║██╔══██╗██║██║   ██║    ██║   ██║██║   ██║██║╚██╔╝██║██╔══╝  ╚════██║  ║
+║  ██████╔╝██║  ██║██║  ██║██║╚██████╔╝    ╚██████╔╝╚██████╔╝██║ ╚═╝ ██║███████╗███████║  ║
+║  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝      ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<!-- TYPING SVG ANIMADO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=1800&color=AFA9EC&center=true&width=640&lines=ENDURANCE+MISSION+LOG+%2F%2F+DARIOGOM;Back-End+Developer+%7C+Python+%7C+FastAPI;docker+compose+up+--build+%F0%9F%9A%80;1+hora+em+Miller+%3D+7+anos+na+Terra.;Do+not+go+gentle+into+that+good+night.;python+-m+uvicorn+main%3Aapp+--reload;Gravity+is+the+universal+language.)](https://git.io/typing-svg)
+</div>
 
----
+<!-- TYPING EFFECT SIMULATION -->
+<div align="center">
 
-```
-  ══════════════════════════════════════════════════════
-     E N D U R A N C E   ·   M I S S I O N   L O G
-                     D A R I O G O M
-  ══════════════════════════════════════════════════════
+```python
+class DarioGomes:
+    def __init__(self):
+        self.role        = "Back-End Developer"
+        self.stack       = ["Python", "Node.js", "SQL", "REST APIs"]
+        self.evolving    = ["Data Pipelines", "Test Automation", "AI/ML"]
+        self.mission     = "Build systems that think, automate, and scale"
+        self.status      = "⚡ Uploading new skills to the cloud..."
+
+    def say_hello(self):
+        return "Hey! I turn complex problems into elegant code."
 ```
 
 </div>
 
 ---
 
+<!-- ANIMATED BANNER -->
 <div align="center">
 
-# `DÁRIO GOMES`
-### `BACK-END DEVELOPER  ·  EXPLORER  ·  BUILDER`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Back-End+Developer+%7C+Python+%7C+SQL;Building+Automation+%26+Inventory+Systems;Exploring+Data+Pipelines+%26+Test+Automation;Turning+Data+into+Intelligence+%F0%9F%A7%A0;Systems+that+think%2C+automate+and+scale+%E2%9A%A1" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+---
+
+## 🧠 NEURAL STACK — Technologies I Operate With
+
+<div align="center">
+
+<!-- TECH RADAR -->
+```
+              [ CORE SYSTEMS ]
+         ┌──────────────────────┐
+         │  ⬡ Python    ████████████  98%  │
+         │  ⬡ SQL       ████████████  95%  │
+         │  ⬡ REST API  ███████████░  92%  │
+         │  ⬡ Node.js   ██████████░░  88%  │
+         └──────────────────────┘
+
+          [ EXPANDING MODULES ]
+         ┌──────────────────────┐
+         │  ◈ Selenium  ████████░░░░  78%  │
+         │  ◈ Jupyter   ███████░░░░░  72%  │
+         │  ◈ Pandas    ███████░░░░░  70%  │
+         │  ◈ Data Eng  ██████░░░░░░  65%  │
+         └──────────────────────┘
+```
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFB3)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FFB3)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FFB3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FFB3)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FFB3)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FFB3)
+![Selenium](https://img.shields.io/badge/Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=00FFB3)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00FFB3)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FFB3)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FFB3)
 
 </div>
 
 ---
 
-## `// MISSION BRIEFING`
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  TRANSMISSÃO RECEBIDA — SATÉLITE LAZARUS                           │
-│  DESTINO: github.com/dariogom                                      │
-│  HORA LOCAL: [CALCULANDO DILATAÇÃO TEMPORAL...]                    │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
->Desenvolvedor backend com foco em Python e APIs REST, experiência em análise de dados com Pandas, aplicações containerizadas com Docker e bancos de dados SQL. Apaixonado por criar soluções escaláveis, automações e evoluir constantemente no desenvolvimento backend.
-**
-
----
-
-## `// SISTEMAS DOMINADOS — PLANETA A PLANETA`
-
-```
-  PYTHON      ████████████████████░░░  88%   🐍
-  FASTAPI     ██████████████████░░░░░  75%   ⚡
-  SELENIUM    ████████████████████░░░  80%   🤖
-  SQL         ██████████████████░░░░░  72%   🗃️
-  DOCKER      ████████████████░░░░░░░  65%   🐳
-  PANDAS      █████████████████░░░░░░  70%   📊
-  REST APIS   ███████████████████░░░░  78%   🔌
-  NODE.JS     █████████████░░░░░░░░░░  55%   📦
-```
-
----
-
-## `// MISSÕES — STATUS: RELATÓRIO COMPLETO`
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  MISSÃO              DESTINO          STACK              STATUS     │
-├─────────────────────────────────────────────────────────────────────┤
-│  interstellar-api    GARGÂNTUA        Python · FastAPI   ✓ OK       │
-│  churn-analysis      MILLER           Pandas · Jupyter   ✓ OK       │
-│  selenium-reg        TARS UNIT        Selenium           ✓ OK       │
-│  techstock           ENDURANCE        HTML · CSS · JS    ✓ OK       │
-│  price-monitor-api   EDMUNDS          FastAPI            ⟳ WIP      │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 🌌 `[ GARGÂNTUA ]` — [interstellar-api](https://github.com/dariogom/interstellar-api)
-
-```
-  ┌──────────────────────────────────────────────────┐
-  │  HORIZONTE DE EVENTOS — ALTITUDE: CRÍTICA        │
-  │  Dados da NASA em tempo real. Física aplicada.   │
-  │  1 hora em Miller = 7 anos na Terra.             │
-  └──────────────────────────────────────────────────┘
-```
-
-> API REST com dados reais da NASA — exoplanetas, buracos negros e cálculo de dilatação temporal.
-> Porque código deveria dobrar o espaço-tempo.
-
-![Python](https://img.shields.io/badge/Python-AFA9EC?style=flat-square&logo=python&logoColor=060a0f)
-![FastAPI](https://img.shields.io/badge/FastAPI-AFA9EC?style=flat-square&logo=fastapi&logoColor=060a0f)
-![Docker](https://img.shields.io/badge/Docker-AFA9EC?style=flat-square&logo=docker&logoColor=060a0f)
-![NASA](https://img.shields.io/badge/NASA_API-AFA9EC?style=flat-square&logo=nasa&logoColor=060a0f)
-
----
-
-### 📉 `[ MILLER ]` — [customer-churn-analysis](https://github.com/dariogom/Customer-Churn-Analysis)
-
-```
-  ┌──────────────────────────────────────────────────┐
-  │  ATENÇÃO: ANOMALIA GRAVITACIONAL DETECTADA       │
-  │  Cada segundo aqui custa horas lá fora.          │
-  │  Os dados revelam mais do que parecem.           │
-  └──────────────────────────────────────────────────┘
-```
-
-> Análise de padrões de cancelamento em serviços de assinatura.
-> Como Miller, os dados revelam mais do que parecem à primeira vista.
-
-![Python](https://img.shields.io/badge/Python-AFA9EC?style=flat-square&logo=python&logoColor=060a0f)
-![Pandas](https://img.shields.io/badge/Pandas-AFA9EC?style=flat-square&logo=pandas&logoColor=060a0f)
-![Jupyter](https://img.shields.io/badge/Jupyter-AFA9EC?style=flat-square&logo=jupyter&logoColor=060a0f)
-
----
-
-### 🤖 `[ TARS ]` — [selenium-product-registration](https://github.com/dariogom/selenium-product-registration)
-
-```
-  ┌──────────────────────────────────────────────────┐
-  │  TARS UNIT ONLINE                                │
-  │  HUMOR SETTING: 75%                              │
-  │  Automatizando com precisão. Sem reclamar.       │
-  └──────────────────────────────────────────────────┘
-```
-
-> Automação de cadastro web — como TARS, executa com precisão e 90% de honestidade.
-
-![Python](https://img.shields.io/badge/Python-AFA9EC?style=flat-square&logo=python&logoColor=060a0f)
-![Selenium](https://img.shields.io/badge/Selenium-AFA9EC?style=flat-square&logo=selenium&logoColor=060a0f)
-
----
-
-### 📦 `[ ENDURANCE ]` — [techstock](https://github.com/dariogom/techstock)
-
-```
-  ┌──────────────────────────────────────────────────┐
-  │  ENDURANCE — SISTEMAS ONLINE                     │
-  │  COMBUSTÍVEL: SUFICIENTE                         │
-  │  Mantendo tudo em órbita.                        │
-  └──────────────────────────────────────────────────┘
-```
-
-> Sistema de gerenciamento de estoque — a nave que mantém tudo em órbita.
-
-![HTML](https://img.shields.io/badge/HTML-AFA9EC?style=flat-square&logo=html5&logoColor=060a0f)
-![CSS](https://img.shields.io/badge/CSS-AFA9EC?style=flat-square&logo=css3&logoColor=060a0f)
-![JS](https://img.shields.io/badge/JavaScript-AFA9EC?style=flat-square&logo=javascript&logoColor=060a0f)
-
----
-
-## `// TARS — RELATÓRIO DE SISTEMAS`
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  TARS UNIT // OPERATIONAL  ·  MODO: MISSÃO ATIVA         │
-│                                                          │
-│  HUMOR SETTING ............... 75%                       │
-│  HONESTY SETTING ............. 90%                       │
-│  COMMITS THIS YEAR ........... ↑ em progresso            │
-│  CAFFEINE .................... OPTIMAL                   │
-│  MISSION STATUS .............. EM ÓRBITA                 │
-│  PRÓXIMA MISSÃO .............. 1ª POSIÇÃO PROFISSIONAL   │
-│                                                          │
-│  [COOPER]: "TARS, what's your honesty parameter?"        │
-│  [TARS]:   "Ninety percent."                             │
-│  [COOPER]: "What about this code?"                       │
-│  [TARS]:   "Clean. Documented. Deploying."               │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-## `// TELEMETRIA DA ENDURANCE`
+## 🚀 ACTIVE PROJECTS — Deployed Modules
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dariogom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060a0f&title_color=AFA9EC&icon_color=AFA9EC&text_color=8899bb" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariogom&layout=compact&theme=tokyonight&hide_border=true&bg_color=060a0f&title_color=AFA9EC&text_color=8899bb" />
-
-![Streak](https://streak-stats.demolab.com?user=dariogom&theme=tokyonight&hide_border=true&background=060a0f&ring=AFA9EC&fire=AFA9EC&currStreakLabel=AFA9EC&sideLabels=8899bb&dates=3d4f6e)
+| PROJECT | DESCRIPTION | TECH | STATUS |
+|:--|:--|:--|:--|
+| 🔬 **Customer-Churn-Analysis** | Identifying churn patterns in subscription services using ML models | `Python` `Jupyter` `Pandas` | 🟢 LIVE |
+| 🤖 **selenium-product-registration** | Full web automation — login, navigation, forms | `Python` `Selenium` | 🟢 LIVE |
+| 📦 **techstock** | Inventory management system with clean UI | `JavaScript` `HTML` `CSS` | 🟢 LIVE |
+| 🧩 **dariogom** | My GitHub profile repository | `Markdown` | 🔄 UPDATING |
 
 </div>
 
 ---
 
-## `// TRANSMISSÃO VIA TARS`
+## 📡 SIGNAL METRICS — GitHub Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdariogomesdev-AFA9EC?style=for-the-badge&logo=linkedin&logoColor=060a0f)](https://linkedin.com/in/dariogomesdev)
-[![GitHub](https://img.shields.io/badge/GitHub-dariogom-AFA9EC?style=for-the-badge&logo=github&logoColor=060a0f)](https://github.com/dariogom)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dariogom&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariogom&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dariogom&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FFB3&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=888888)
+
+</div>
+
+---
+
+## 🧬 CURRENT LEARNING — System Upgrade In Progress
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════╗
+║          UPGRADE QUEUE — v2.0            ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  [██████████░░░░░░░░]  Data Pipelines    ║
+║  [████████░░░░░░░░░░]  Test Automation   ║
+║  [███████░░░░░░░░░░░]  Machine Learning  ║
+║  [████░░░░░░░░░░░░░░]  Cloud & DevOps    ║
+║                                          ║
+║  STATUS: DOWNLOADING...  ▓▓▓▓▓░░░░ 52%  ║
+╚══════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌐 CONNECT — Establish Link
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFB3&label=dariogomesdev)](https://linkedin.com/in/dariogomesdev)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFB3&label=dariogom)](https://github.com/dariogom)
+
+</div>
+
+---
+
+<!-- VISITOR COUNTER -->
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=dariogom&color=00FFB3&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -216,22 +165,9 @@
 <div align="center">
 
 ```
-🚀  .  ✦  .  *  .  ✧  .  *  .  ✦  .  🚀
-
-"Do not go gentle into that good night,
- Old age should burn and rave at close of day;
- Rage, rage against the dying of the light."
-
-                              — Dylan Thomas
-                    citado em Interstellar (2014)
-
-🚀  .  ✦  .  *  .  ✧  .  *  .  ✦  .  🚀
+⚡ "Automate everything. Understand everything. Build what matters." ⚡
 ```
 
-![Visitors](https://komarev.com/ghpvc/?username=dariogom&color=AFA9EC&style=flat-square&label=exploradores+na+galáxia)
-
-```
-   ENDURANCE — EM ÓRBITA   ·   MISSÃO: ATIVA
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=80&section=footer&reversal=false&animation=fadeIn" />
 
 </div>
