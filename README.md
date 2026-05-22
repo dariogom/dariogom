@@ -1,57 +1,76 @@
 <div align="center">
 
-<h1>Olá, sou Dário Gomes 👋</h1>
-<p><b>Back-End Developer</b> · Python · SQL · REST APIs · Node.js</p>
+```
+· · ✦ · · · ✦ · · ✦ · · · · ✦ · · ✦ · · · ✦ · ·
+```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=435&lines=Building+automation+tools...;Clean+code+first.;Always+learning.)
+# Dário Gomes
 
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-6B7280?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=7F77DD&center=true&width=500&lines=Back-End+Developer+%7C+Python+%7C+FastAPI;Exploring+the+universe+of+code...;Building+automation+tools+%26+REST+APIs;docker+compose+up+--build+%F0%9F%9A%80)
 
 ---
 
+## // missão
 
-## 🧠 Sobre mim
-
-- 🐍 Desenvolvedor back-end com foco em **Python** — scripts de automação,
-  consumo de **REST APIs** e manipulação de dados com **Pandas**
-- 🤖 Experiência prática com **Selenium WebDriver** para automação de
-  fluxos web e testes end-to-end
-- 🗄️ Modelagem e consultas em **SQL** (MySQL/SQLite) — joins, subqueries
-  e otimização básica de queries
-- 🔧 Atualmente aprofundando: **FastAPI** (rotas, schemas Pydantic,
-  async) · **PostgreSQL** · **Docker** (containers e volumes)
+> Desenvolvedor back-end explorando o universo da tecnologia —
+> **Python**, **FastAPI**, **Docker** e **REST APIs**.
+> Apaixonado por código limpo, automação e pela ideia de que
+> cada linha de código é um passo além do horizonte.
+> Buscando a primeira missão profissional como dev.
 
 ---
 
-## 📌 Projetos em destaque
+## 🪐 sistemas solares dominados
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">🪐<br><b>Python</b><br><sub>core</sub></td>
+    <td align="center" width="96">⚡<br><b>FastAPI</b><br><sub>backend</sub></td>
+    <td align="center" width="96">🐋<br><b>Docker</b><br><sub>infra</sub></td>
+    <td align="center" width="96">🌐<br><b>REST APIs</b><br><sub>integração</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96">🤖<br><b>Selenium</b><br><sub>automação</sub></td>
+    <td align="center" width="96">📊<br><b>Pandas</b><br><sub>dados</sub></td>
+    <td align="center" width="96">🗄️<br><b>SQL</b><br><sub>banco</sub></td>
+    <td align="center" width="96">🔗<br><b>Node.js</b><br><sub>runtime</sub></td>
+  </tr>
+</table>
+
+---
+
+## 🚀 missões concluídas
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [🛒 techstock](https://github.com/dariogom/techstock) | Sistema web de gerenciamento de estoque com cadastro e controle de produtos | HTML · CSS · JS |
-| [🤖 selenium-product-registration](https://github.com/dariogom/selenium-product-registration) | Automação de cadastro em sistemas web simulando fluxo real de produção | Python · Selenium |
-| [📊 imers-o-dados-python3](https://github.com/dariogom/imers-o-dados-python3) | Análise e visualização de dados da imersão Alura | Python · Pandas |
+| 🌌 [interstellar-api](https://github.com/dariogom/interstellar-api) | API REST com dados reais da NASA — exoplanetas, buracos negros e dilatação temporal baseados na física de Interstellar | Python · FastAPI · Docker · NASA API |
+| 📉 [customer-churn-analysis](https://github.com/dariogom/Customer-Churn-Analysis) | Análise de padrões de cancelamento em serviços de assinatura com Python e Pandas | Python · Pandas · Jupyter |
+| 🤖 [selenium-product-registration](https://github.com/dariogom/selenium-product-registration) | Automação de cadastro web simulando fluxo real de produção | Python · Selenium |
+| 📦 [techstock](https://github.com/dariogom/techstock) | Sistema de gerenciamento de estoque com CRUD completo | HTML · CSS · JS |
 
 ---
 
-## 📊 GitHub Stats
+## 📡 transmissões recentes
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dariogom&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariogom&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariogom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariogom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dariogom&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD)
 
 ---
 
-## 📬 Contato
+## 📍 coordenadas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariogomesdev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dariogomesdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdariogomesdev-7F77DD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dariogomesdev)
+[![GitHub](https://img.shields.io/badge/GitHub-dariogom-7F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dariogom)
+[![Localização](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Bahia%2C%20Brasil-7F77DD?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/dariogom)
+
+---
+
+```
+"Do not go gentle into that good night." — Interstellar (2014)
+```
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=dariogom&color=7F77DD&style=flat-square&label=exploradores+do+perfil)
 
 </div>
