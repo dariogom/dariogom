@@ -43,7 +43,6 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| 🌌 [interstellar-api](https://github.com/dariogom/interstellar-api) | API REST com dados reais da NASA — exoplanetas, buracos negros e dilatação temporal baseados na física de Interstellar | Python · FastAPI · Docker · NASA API |
 | 📉 [customer-churn-analysis](https://github.com/dariogom/Customer-Churn-Analysis) | Análise de padrões de cancelamento em serviços de assinatura com Python e Pandas | Python · Pandas · Jupyter |
 | 🤖 [selenium-product-registration](https://github.com/dariogom/selenium-product-registration) | Automação de cadastro web simulando fluxo real de produção | Python · Selenium |
 | 📦 [techstock](https://github.com/dariogom/techstock) | Sistema de gerenciamento de estoque com CRUD completo | HTML · CSS · JS |
