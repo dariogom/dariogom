@@ -63,9 +63,7 @@ Construo ferramentas de automação, sistemas de inventário e agora navego rumo
 ![Selenium](https://img.shields.io/badge/Selenium-0a0a2e?style=for-the-badge&logo=selenium&logoColor=A78BFA)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a2e?style=for-the-badge&logo=pandas&logoColor=A78BFA)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0a0a2e?style=for-the-badge&logo=jupyter&logoColor=A78BFA)
-![Git](https://img.shields.io/badge/Git-0a0a2e?style=for-the-badge&logo=git&logoColor=A78BFA)
-![Linux](https://img.shields.io/badge/Linux-0a0a2e?style=for-the-badge&logo=linux&logoColor=A78BFA)
-![VS Code](https://img.shields.io/badge/VS%20Code-0a0a2e?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA)
+
 
 </div>
 
