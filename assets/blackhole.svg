@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <style>
+      .ring1 { animation: spin1 8s linear infinite; transform-origin: 400px 100px; }
+      .ring2 { animation: spin2 12s linear infinite; transform-origin: 400px 100px; }
+      .ring3 { animation: spin3 6s linear infinite; transform-origin: 400px 100px; }
+      .ring4 { animation: spin4 18s linear infinite; transform-origin: 400px 100px; }
+      .ring5 { animation: spin1 22s linear infinite reverse; transform-origin: 400px 100px; }
+      .ring6 { animation: spin2 9s linear infinite reverse; transform-origin: 400px 100px; }
+      .ring7 { animation: spin3 14s linear infinite; transform-origin: 400px 100px; }
+      .ring8 { animation: spin4 5s linear infinite reverse; transform-origin: 400px 100px; }
+      .glow  { animation: pulse 3s ease-in-out infinite; transform-origin: 400px 100px; }
+      .arc1  { animation: spin1 4s linear infinite; transform-origin: 400px 100px; }
+      .arc2  { animation: spin2 7s linear infinite reverse; transform-origin: 400px 100px; }
+      .star  { animation: twinkle 2s ease-in-out infinite; }
+      .star2 { animation: twinkle 3.1s ease-in-out infinite 0.5s; }
+      .star3 { animation: twinkle 1.8s ease-in-out infinite 1.2s; }
+      .star4 { animation: twinkle 2.5s ease-in-out infinite 0.3s; }
+      .star5 { animation: twinkle 3.7s ease-in-out infinite 1.8s; }
+      .title-text { animation: fadeGlow 4s ease-in-out infinite; }
+ 
+      @keyframes spin1 {
+        from { transform: rotate(0deg) scaleY(0.22); }
+        to   { transform: rotate(360deg) scaleY(0.22); }
+      }
+      @keyframes spin2 {
+        from { transform: rotate(0deg) scaleY(0.28); }
+        to   { transform: rotate(360deg) scaleY(0.28); }
+      }
+      @keyframes spin3 {
+        from { transform: rotate(45deg) scaleY(0.18); }
+        to   { transform: rotate(405deg) scaleY(0.18); }
+      }
+      @keyframes spin4 {
+        from { transform: rotate(120deg) scaleY(0.25); }
+        to   { transform: rotate(480deg) scaleY(0.25); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.6; }
+        50%       { opacity: 1; }
+      }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.2; r: 1.2; }
+        50%       { opacity: 1;   r: 2;   }
+      }
+      @keyframes fadeGlow {
+        0%, 100% { opacity: 0.7; }
+        50%       { opacity: 1; }
+      }
+    </style>
+ 
+    <radialGradient id="bhGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#0a0818"/>
+      <stop offset="100%" stop-color="#000008"/>
+    </radialGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#afa9ec" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#534ab7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+ 
+  <!-- background -->
+  <rect width="800" height="200" fill="#00000f"/>
+ 
+  <!-- stars scattered -->
+  <circle class="star"  cx="42"  cy="18"  r="1.2" fill="#afa9ec"/>
+  <circle class="star2" cx="120" cy="44"  r="1.0" fill="#c8c0ff"/>
+  <circle class="star3" cx="195" cy="12"  r="1.5" fill="#afa9ec"/>
+  <circle class="star4" cx="68"  cy="160" r="1.1" fill="#8880c0"/>
+  <circle class="star5" cx="155" cy="178" r="1.3" fill="#afa9ec"/>
+  <circle class="star"  cx="230" cy="90"  r="0.9" fill="#c8c0ff"/>
+  <circle class="star3" cx="280" cy="30"  r="1.2" fill="#afa9ec"/>
+  <circle class="star2" cx="300" cy="165" r="1.0" fill="#8880c0"/>
+ 
+  <circle class="star4" cx="510" cy="22"  r="1.3" fill="#afa9ec"/>
+  <circle class="star"  cx="580" cy="55"  r="1.1" fill="#c8c0ff"/>
+  <circle class="star2" cx="620" cy="175" r="1.4" fill="#afa9ec"/>
+  <circle class="star5" cx="665" cy="15"  r="0.9" fill="#8880c0"/>
+  <circle class="star3" cx="700" cy="140" r="1.2" fill="#afa9ec"/>
+  <circle class="star"  cx="745" cy="35"  r="1.0" fill="#c8c0ff"/>
+  <circle class="star4" cx="770" cy="80"  r="1.3" fill="#afa9ec"/>
+  <circle class="star2" cx="790" cy="155" r="0.8" fill="#8880c0"/>
+ 
+  <!-- glow halo -->
+  <ellipse class="glow" cx="400" cy="100" rx="95" ry="95" fill="url(#glowGrad)"/>
+ 
+  <!-- accretion rings outer → inner -->
+  <ellipse class="ring8" cx="400" cy="100" rx="88" ry="88" fill="none" stroke="#3a3460" stroke-width="5" stroke-opacity="0.3"/>
+  <ellipse class="ring5" cx="400" cy="100" rx="80" ry="80" fill="none" stroke="#4a4480" stroke-width="4" stroke-opacity="0.35"/>
+  <ellipse class="ring7" cx="400" cy="100" rx="74" ry="74" fill="none" stroke="#5a549a" stroke-width="5" stroke-opacity="0.4"/>
+  <ellipse class="ring4" cx="400" cy="100" rx="68" ry="68" fill="none" stroke="#6a64b0" stroke-width="6" stroke-opacity="0.45"/>
+  <ellipse class="ring2" cx="400" cy="100" rx="62" ry="62" fill="none" stroke="#7a74c4" stroke-width="5" stroke-opacity="0.5"/>
+  <ellipse class="ring6" cx="400" cy="100" rx="56" ry="56" fill="none" stroke="#8f89d4" stroke-width="6" stroke-opacity="0.55"/>
+  <ellipse class="ring3" cx="400" cy="100" rx="50" ry="50" fill="none" stroke="#afa9ec" stroke-width="5" stroke-opacity="0.6"/>
+  <ellipse class="ring1" cx="400" cy="100" rx="45" ry="45" fill="none" stroke="#c8c0ff" stroke-width="4" stroke-opacity="0.65"/>
+ 
+  <!-- photon arc lensing -->
+  <path class="arc1" d="M 400 62 A 38 38 0 0 1 438 100" fill="none" stroke="#e0d8ff" stroke-width="2" stroke-opacity="0.8" stroke-linecap="round"/>
+  <path class="arc2" d="M 400 138 A 38 38 0 0 1 362 100" fill="none" stroke="#c8c0ff" stroke-width="1.5" stroke-opacity="0.6" stroke-linecap="round"/>
+ 
+  <!-- event horizon -->
+  <circle cx="400" cy="100" r="38" fill="url(#bhGrad)"/>
+ 
+  <!-- title right side -->
+  <text class="title-text" x="560" y="82" font-family="'Courier New', monospace" font-size="22" font-weight="bold" letter-spacing="6" fill="#afa9ec">GARGÂNTUA</text>
+  <text x="560" y="106" font-family="'Courier New', monospace" font-size="10" letter-spacing="3" fill="#534ab7">EVENT HORIZON · ACTIVE</text>
+  <text x="560" y="126" font-family="'Courier New', monospace" font-size="9" letter-spacing="2" fill="#3a3460">1h MILLER = 7y TERRA</text>
+ 
+  <!-- bottom bar -->
+  <rect x="0" y="190" width="800" height="1" fill="#2e2a52" opacity="0.6"/>
+  <text x="10" y="183" font-family="'Courier New', monospace" font-size="8" letter-spacing="2" fill="#3a3460">ENDURANCE // DARIOGOM</text>
+  <text x="700" y="183" font-family="'Courier New', monospace" font-size="8" letter-spacing="1" fill="#3a3460">EM ÓRBITA</text>
+</svg>
