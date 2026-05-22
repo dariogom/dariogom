@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <defs>
+    <style>
+      /* twinkle layers */
+      .t1  { animation: tw 2.1s ease-in-out infinite; }
+      .t2  { animation: tw 3.4s ease-in-out infinite 0.7s; }
+      .t3  { animation: tw 1.9s ease-in-out infinite 1.3s; }
+      .t4  { animation: tw 2.8s ease-in-out infinite 0.4s; }
+      .t5  { animation: tw 3.9s ease-in-out infinite 2.1s; }
+      .t6  { animation: tw 1.6s ease-in-out infinite 0.9s; }
+      .t7  { animation: tw 4.2s ease-in-out infinite 1.7s; }
+      .t8  { animation: tw 2.5s ease-in-out infinite 3.0s; }
+ 
+      /* shooting stars */
+      .sh1 { animation: shoot1 6s linear infinite 0s; }
+      .sh2 { animation: shoot2 9s linear infinite 3s; }
+      .sh3 { animation: shoot3 7s linear infinite 1.5s; }
+ 
+      /* rockets */
+      .rk1 { animation: rocket1 14s linear infinite 0s; }
+      .rk2 { animation: rocket2 18s linear infinite 5s; }
+      .rk3 { animation: rocket3 11s linear infinite 8s; }
+ 
+      /* title pulse */
+      .title { animation: glow 3s ease-in-out infinite; }
+      .sub   { animation: glow 4s ease-in-out infinite 1s; }
+ 
+      @keyframes tw {
+        0%, 100% { opacity: 0.15; }
+        50%       { opacity: 1; }
+      }
+      @keyframes shoot1 {
+        0%   { opacity: 0;   transform: translate(0px, 0px); }
+        5%   { opacity: 1; }
+        30%  { opacity: 0;   transform: translate(260px, 80px); }
+        100% { opacity: 0;   transform: translate(260px, 80px); }
+      }
+      @keyframes shoot2 {
+        0%   { opacity: 0;   transform: translate(0px, 0px); }
+        5%   { opacity: 0.8; }
+        25%  { opacity: 0;   transform: translate(190px, 55px); }
+        100% { opacity: 0;   transform: translate(190px, 55px); }
+      }
+      @keyframes shoot3 {
+        0%   { opacity: 0;   transform: translate(0px, 0px); }
+        5%   { opacity: 0.9; }
+        20%  { opacity: 0;   transform: translate(220px, 64px); }
+        100% { opacity: 0;   transform: translate(220px, 64px); }
+      }
+      @keyframes rocket1 {
+        0%   { opacity: 0; transform: translate(0,0) rotate(-50deg); }
+        5%   { opacity: 0.7; }
+        90%  { opacity: 0.5; }
+        100% { opacity: 0; transform: translate(-200px, -130px) rotate(-50deg); }
+      }
+      @keyframes rocket2 {
+        0%   { opacity: 0; transform: translate(0,0) rotate(-55deg); }
+        5%   { opacity: 0.6; }
+        90%  { opacity: 0.4; }
+        100% { opacity: 0; transform: translate(-180px, -110px) rotate(-55deg); }
+      }
+      @keyframes rocket3 {
+        0%   { opacity: 0; transform: translate(0,0) rotate(-45deg); }
+        8%   { opacity: 0.8; }
+        90%  { opacity: 0.5; }
+        100% { opacity: 0; transform: translate(-160px, -130px) rotate(-45deg); }
+      }
+      @keyframes glow {
+        0%, 100% { opacity: 0.75; }
+        50%       { opacity: 1; }
+      }
+    </style>
+ 
+    <linearGradient id="shootGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="60%"  stop-color="#afa9ec" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#000010"/>
+      <stop offset="100%" stop-color="#06030f"/>
+    </linearGradient>
+  </defs>
+ 
+  <!-- bg -->
+  <rect width="800" height="120" fill="url(#bgGrad)"/>
+ 
+  <!-- static dim stars (back layer) -->
+  <circle cx="15"  cy="8"   r="0.7" fill="#5a5490" opacity="0.5"/>
+  <circle cx="55"  cy="55"  r="0.8" fill="#5a5490" opacity="0.4"/>
+  <circle cx="90"  cy="20"  r="0.6" fill="#6a64a0" opacity="0.5"/>
+  <circle cx="130" cy="100" r="0.7" fill="#5a5490" opacity="0.3"/>
+  <circle cx="175" cy="35"  r="0.8" fill="#6a64a0" opacity="0.5"/>
+  <circle cx="215" cy="75"  r="0.6" fill="#5a5490" opacity="0.4"/>
+  <circle cx="250" cy="10"  r="0.7" fill="#6a64a0" opacity="0.5"/>
+  <circle cx="285" cy="92"  r="0.8" fill="#5a5490" opacity="0.3"/>
+  <circle cx="550" cy="18"  r="0.7" fill="#5a5490" opacity="0.5"/>
+  <circle cx="590" cy="88"  r="0.6" fill="#6a64a0" opacity="0.4"/>
+  <circle cx="640" cy="45"  r="0.8" fill="#5a5490" opacity="0.5"/>
+  <circle cx="680" cy="105" r="0.7" fill="#6a64a0" opacity="0.3"/>
+  <circle cx="720" cy="22"  r="0.6" fill="#5a5490" opacity="0.5"/>
+  <circle cx="760" cy="70"  r="0.8" fill="#6a64a0" opacity="0.4"/>
+  <circle cx="795" cy="12"  r="0.7" fill="#5a5490" opacity="0.5"/>
+ 
+  <!-- twinkling stars (mid layer) -->
+  <circle class="t1" cx="30"  cy="28"  r="1.2" fill="#afa9ec"/>
+  <circle class="t2" cx="75"  cy="85"  r="1.0" fill="#c8c0ff"/>
+  <circle class="t3" cx="110" cy="50"  r="1.3" fill="#afa9ec"/>
+  <circle class="t4" cx="160" cy="14"  r="1.1" fill="#8880c0"/>
+  <circle class="t5" cx="200" cy="100" r="1.4" fill="#afa9ec"/>
+  <circle class="t6" cx="235" cy="60"  r="1.0" fill="#c8c0ff"/>
+  <circle class="t7" cx="270" cy="30"  r="1.2" fill="#afa9ec"/>
+  <circle class="t8" cx="310" cy="95"  r="1.1" fill="#8880c0"/>
+ 
+  <circle class="t3" cx="500" cy="10"  r="1.3" fill="#afa9ec"/>
+  <circle class="t1" cx="530" cy="70"  r="1.1" fill="#c8c0ff"/>
+  <circle class="t6" cx="565" cy="40"  r="1.2" fill="#afa9ec"/>
+  <circle class="t2" cx="600" cy="108" r="1.0" fill="#8880c0"/>
+  <circle class="t5" cx="638" cy="25"  r="1.4" fill="#afa9ec"/>
+  <circle class="t4" cx="670" cy="80"  r="1.1" fill="#c8c0ff"/>
+  <circle class="t7" cx="710" cy="55"  r="1.2" fill="#afa9ec"/>
+  <circle class="t8" cx="750" cy="15"  r="1.3" fill="#8880c0"/>
+  <circle class="t1" cx="785" cy="92"  r="1.0" fill="#afa9ec"/>
+ 
+  <!-- shooting star 1: starts at ~50,5 -->
+  <g class="sh1">
+    <line x1="50" y1="5" x2="90" y2="5" stroke="url(#shootGrad)" stroke-width="1.5"/>
+    <circle cx="50" cy="5" r="1.5" fill="#ffffff"/>
+  </g>
+ 
+  <!-- shooting star 2: starts at ~600,15 -->
+  <g class="sh2">
+    <line x1="600" y1="15" x2="635" y2="15" stroke="url(#shootGrad)" stroke-width="1.2"/>
+    <circle cx="600" cy="15" r="1.2" fill="#afa9ec"/>
+  </g>
+ 
+  <!-- shooting star 3: starts at ~340,8 -->
+  <g class="sh3">
+    <line x1="340" y1="8" x2="378" y2="8" stroke="url(#shootGrad)" stroke-width="1.4"/>
+    <circle cx="340" cy="8" r="1.3" fill="#ffffff"/>
+  </g>
+ 
+  <!-- rocket 1: starts at 750,118 -->
+  <g class="rk1">
+    <text x="750" y="118" font-size="13" font-family="sans-serif">🚀</text>
+  </g>
+ 
+  <!-- rocket 2: starts at 680,115 -->
+  <g class="rk2">
+    <text x="680" y="115" font-size="10" font-family="sans-serif">🚀</text>
+  </g>
+ 
+  <!-- rocket 3: starts at 810,116 -->
+  <g class="rk3">
+    <text x="810" y="116" font-size="11" font-family="sans-serif">🚀</text>
+  </g>
+ 
+  <!-- center title -->
+  <text class="title" x="400" y="56" text-anchor="middle" font-family="'Courier New', monospace" font-size="26" font-weight="bold" letter-spacing="12" fill="#afa9ec">DÁRIO GOMES</text>
+  <text class="sub" x="400" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" letter-spacing="5" fill="#534ab7">BACK-END DEVELOPER  ·  EXPLORER  ·  BUILDER</text>
+ 
+  <!-- border lines -->
+  <rect x="0" y="0" width="800" height="120" fill="none" stroke="#2e2a52" stroke-width="1" opacity="0.5"/>
+  <line x1="0" y1="1" x2="800" y2="1" stroke="#afa9ec" stroke-width="0.5" opacity="0.2"/>
+  <line x1="0" y1="119" x2="800" y2="119" stroke="#afa9ec" stroke-width="0.5" opacity="0.2"/>
+</svg>
